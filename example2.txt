@@ -1,1 +1,2 @@
-This is feature file
+This is feature file with some changes
+
